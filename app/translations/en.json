@@ -1,0 +1,43 @@
+{
+
+  "boilerplate.components.Footer.author.message": "Made with love by {author}.",
+  "boilerplate.components.Footer.license.message": "License.",
+
+  "boilerplate.components.Header.search": "Search",
+  "boilerplate.components.Header.about": "About",
+
+  "boilerplate.containers.LocaleToggle.no": "no",
+  "boilerplate.containers.LocaleToggle.en": "en",
+
+  "boilerplate.containers.NotFoundPage.header": "Page not found.",
+
+  "boilerplate.containers.AboutPage.header": "About",
+  "boilerplate.containers.AboutPage.headerApi": "The API",
+  "boilerplate.containers.AboutPage.headerBoilerplate": "The Boilerplate",
+  "boilerplate.containers.AboutPage.purpose": "The purpose of this project is to learn how to develop websites with a robust and scalable infrastructure. This is currently a very simple website; thus the boilerplate is a bit of an overkill, but it is used for the sake of the learning experience.",
+  "boilerplate.containers.AboutPage.findLink": "The boilerplate used for this project can be found here:",
+  "boilerplate.containers.AboutPage.apiLink": "The following link is used for querying character information, where the name Thoice can be replaced by user submitted names.",
+  "boilerplate.containers.AboutPage.exampleNames": "On the search page you can try following names: ",
+  "boilerplate.containers.AboutPage.exampleNamesResult": "The first name should return both character information and organization information. The second name should return character information, but no organization information. The third name should not find a character, as it is an illegal name.",
+
+  "boilerplate.containers.CharacterSearchPage.header": "Search",
+  "boilerplate.containers.CharacterSearchPage.characterSearch": "Character search: ",
+  "boilerplate.containers.CharacterSearchPage.lastUpdateDate": "Character last updated: {date}",
+
+  "boilerplate.components.OrganizationInfo.header": "Organization",
+  "boilerplate.components.OrganizationInfo.organizationNotFound": "Organization not found.",
+  "boilerplate.components.OrganizationInfo.name": "Name: {name}",
+  "boilerplate.components.OrganizationInfo.rank": "Rank: {rank}",
+
+  "boilerplate.components.CharacterInfo.header": "Character",
+  "boilerplate.components.CharacterInfo.characterNotFound": "No character found with that name. Please try again!",
+  "boilerplate.components.CharacterInfo.characterName": "Name: {firstname} {name} {lastname}",
+  "boilerplate.components.CharacterInfo.characterProfession": "Profession: {profession}",
+  "boilerplate.components.CharacterInfo.characterLevel": "Level: {level} - {professionName}",
+  "boilerplate.components.CharacterInfo.characterAlienLevel": "Alien Level: {alienLevel} - {alienRankName}",
+  "boilerplate.components.CharacterInfo.characterFaction": "Faction: {faction}",
+  "boilerplate.components.CharacterInfo.characterSex": "Sex: {sex}",
+  "boilerplate.components.CharacterInfo.characterBreed": "Breed: {breed}",
+  "boilerplate.components.CharacterInfo.characterPvpRating": "PVP Rating: {pvpRating}"
+
+}

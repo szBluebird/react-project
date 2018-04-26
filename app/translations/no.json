@@ -1,0 +1,43 @@
+{
+
+    "boilerplate.components.Footer.author.message": "Laget med kjærlighet av {author}.",
+    "boilerplate.components.Footer.license.message": "Lisense.",
+
+    "boilerplate.components.Header.search": "Søk",
+    "boilerplate.components.Header.about": "Om nettsiden",
+
+    "boilerplate.containers.LocaleToggle.no": "no",
+    "boilerplate.containers.LocaleToggle.en": "en",
+
+    "boilerplate.containers.NotFoundPage.header": "Fant ikke siden.",
+
+    "boilerplate.containers.AboutPage.header": "Om Nettsiden",
+    "boilerplate.containers.AboutPage.headerApi": "API",
+    "boilerplate.containers.AboutPage.headerBoilerplate": "Boilerplate",
+    "boilerplate.containers.AboutPage.purpose": "Formålet med dette prosjektet er å lære å utvikle nettsteder med en robust og skalerbar infrastruktur. Dette er for øyeblikket en veldig enkel nettside; derfor er boilerplaten som ble brukt litt for mye av det gode, men den brukes for læringserfaringens skyld.",
+    "boilerplate.containers.AboutPage.findLink": "Boilerplaten som ble brukt finnes her:",
+    "boilerplate.containers.AboutPage.apiLink": "Følgende link ble brukt for å hente ut karakterdata, hvor navnet Thoice kan bli erstattet med et navn som brukeren spesifiserer.",
+    "boilerplate.containers.AboutPage.exampleNames": "På søk siden kan du prøve de følgende navnene: ",
+    "boilerplate.containers.AboutPage.exampleNamesResult": "Det første navnet skal returnere både karakterinformasjon og organisasjonsinformasjon. Det andre navnet skal returnere karakterinformasjon, men ingen organisasjonsinformasjon. Det tredje navnet skal ikke finne en karakter, da det er et ulovlig navn.",
+
+    "boilerplate.containers.CharacterSearchPage.header": "Søk",
+    "boilerplate.containers.CharacterSearchPage.characterSearch": "Karaktersøk: ",
+    "boilerplate.containers.CharacterSearchPage.lastUpdateDate": "Karakter sist oppdatert: {date}",
+
+    "boilerplate.components.OrganizationInfo.header": "Organisasjon",
+    "boilerplate.components.OrganizationInfo.organizationNotFound": "Fant ikke organisasjon.",
+    "boilerplate.components.OrganizationInfo.name": "Navn: {name}",
+    "boilerplate.components.OrganizationInfo.rank": "Rank: {rank}",
+
+    "boilerplate.components.CharacterInfo.header": "Karakter",
+    "boilerplate.components.CharacterInfo.characterNotFound": "Fant ikke en karakter med det navnet. Prøv igjen!",
+    "boilerplate.components.CharacterInfo.characterName": "Navn: {firstname} {name} {lastname}",
+    "boilerplate.components.CharacterInfo.characterProfession": "Profesjon: {profession}",
+    "boilerplate.components.CharacterInfo.characterLevel": "Nivå: {level} - {professionName}",
+    "boilerplate.components.CharacterInfo.characterAlienLevel": "Utenomjordisk Nivå: {alienLevel} - {alienRankName}",
+    "boilerplate.components.CharacterInfo.characterFaction": "Tilhørighet: {faction}",
+    "boilerplate.components.CharacterInfo.characterSex": "Kjønn: {sex}",
+    "boilerplate.components.CharacterInfo.characterBreed": "Rase: {breed}",
+    "boilerplate.components.CharacterInfo.characterPvpRating": "PVP rate: {pvpRating}"
+
+}
